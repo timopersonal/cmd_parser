@@ -1,0 +1,11 @@
+[package]
+name = "cmd_parser"
+license = "GPL-3.0-only"
+version = "0.1.0"
+authors = ["Timo Sluis <timo_1234@live.nl>"]
+edition = "2018"
+description = "Simple crate that makes the parsing of command line commands much easier"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
